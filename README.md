@@ -73,7 +73,7 @@ list in Reminders. Next, tasks that are deferred, I tag with the `#deferred` tag
 set a due-date. This is the date on which they will become available. Of course,
 I won't manage that manually, so I put together a Shortcuts workflow for the next
 step. The workflow finds all reminders that have a `#deferred` tag and a past due date.
-It then removes both and flags the reminder, making available to work on.
+It then removes both and flags the reminder, making it available to work on.
 
 If I want to defer a task, but also have a due-date, in addition to flagging the task
 and adding the deferred date as a due-date, I set the actual due-date directive as part
@@ -116,3 +116,12 @@ Finally, to automate the launching of these shortcuts, on my Mac, I have created
 separate shortcut that runs the deferred-tasks shortcut and the review-due-checker.
 On my iOS devices, this is an Automation that is set to run each time the Reminders
 app is opened.
+
+I have been using this system for the past couple of weeks, and I am loving it. In
+addition to the added simplicity, I like that the reminders for the Reminder app work
+much better than the ones for OmniFocus. For instance, if I mark a task as done on one
+device, all other devices will immediately remove that notification. The location-based
+reminders also work much better here.
+
+Overall, I think I will stick to this system for a while. There is no doubt that it
+will evolve with time, but I intend to keep this repo up to date as that happens.
