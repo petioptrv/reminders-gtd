@@ -11,13 +11,13 @@ Apple Calendar, Apple Mail (and iCloud as a mail provider), etc. However, other 
 for very light-duty tasks, I don't use Apple Notes nor Apple Reminders... until
 recently.
 
-![The layout of the OmniFocus app window.](assets/omnifocus.jpeg "OmniFocus")
-
 I decided to give Apple Reminders a shot as a GTD app and an OmniFocus replacement for
 several reasons. First, the aforementioned aesthetics. The OmniGroup has not done
 anything to address the visual appeal of the app in the new release. Second, for
 Reminder's better integration into the Apple ecosystem. And last, but not least, for
 the greater simplicity compared to OmniFocus.
+
+![The layout of the OmniFocus app window.](assets/omnifocus.jpeg "OmniFocus")
 
 ## GTD Requirements
 
