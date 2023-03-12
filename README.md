@@ -11,10 +11,13 @@ Apple Calendar, Apple Mail (and iCloud as a mail provider), etc. However, other 
 for very light-duty tasks, I don't use Apple Notes nor Apple Reminders... until
 recently.
 
+![The layout of the OmniFocus app window.](assets/omnifocus.jpeg "OmniFocus")
+
 I decided to give Apple Reminders a shot as a GTD app and an OmniFocus replacement for
-several reasons. First, the aforementioned aesthetics. Second, for the better
-integration into the Apple ecosystem. And last, but not least, for the greater
-simplicity compared to OmniFocus.
+several reasons. First, the aforementioned aesthetics. The OmniGroup has not done
+anything to address the visual appeal of the app in the new release. Second, for
+Reminder's better integration into the Apple ecosystem. And last, but not least, for
+the greater simplicity compared to OmniFocus.
 
 ## GTD Requirements
 
@@ -34,6 +37,7 @@ characteristics of my current OmniFocus-based system that were most important to
 ### Project-Level Functionality
 - Folders within folders
 - Arbitrary number of indentation levels for sub-tasks
+- Making tasks sequentially available
 
 ### Other Functionality
 - Weekly reviews
@@ -55,14 +59,11 @@ For example, if I am building a new app and I want to partition that project int
 a research task and an implementation task, both of which have sub-tasks, I could do
 something like this:
 
-```text
-- New app::Research
-  - Market fit
-  - Existing solutions
-- New app::Implement
-  - Frontend
-  - Backend
-```
+![An example of task indentation past two levels.](assets/taskindentation.png "Task Indentation")
+
+Another requirement I have not gotten around to tackling yet is making tasks
+sequentially available. This is not something I need very often, so I suspect manually
+maneging that won't be too much of a burden.
 
 ### Deferred Date and Next Tag
 
@@ -104,7 +105,9 @@ all of them, and removing the `#review` tag in batch. I mostly use the "Review" 
 as a way to ensure I have not missed any tasks at the end of the review session.
 
 Here is are the links to the two Shortcuts workflows:
+
 Review due checker: https://www.icloud.com/shortcuts/1d59132b23cc43cd9dc43df17fd9bb56
+
 Review task tagger: https://www.icloud.com/shortcuts/33272b8b7675454a901f60f5e9655ee6
 
 ## Putting It All Together
