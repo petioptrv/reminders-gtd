@@ -1,4 +1,4 @@
-# Reminders GTD
+# Apple Reminders GTD
 
 ## Reasoning
 
