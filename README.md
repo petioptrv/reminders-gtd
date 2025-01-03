@@ -88,6 +88,7 @@ due-date for the end of each first week of the month instead. I also tag mainten
 tasks with a `#maintenance` tag to make it immediately obvious what they are.
 
 Here is a link to the Shortcuts workflow: https://www.icloud.com/shortcuts/75b1ebe624bc484f828f93790c8416e4
+Here is a link to a Shortcut that lets the user select a currently flagged reminder and defer it for later: https://www.icloud.com/shortcuts/da9f88fdbb7445359a6deea068ae2076
 
 ### Weekly Reviews
 
